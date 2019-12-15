@@ -1,0 +1,23 @@
+h1{
+
+	font-family: cursive;
+	color:#0000FF;
+	font-variant:small-caps;
+	font-style:oblique;
+	text-align:center;
+	background-color: #ccffff
+	/**/
+
+}
+
+p{
+	font-family:Nonsensical, Arial;
+	line-height: 120%;
+    font-weight: normal;
+}
+
+div{
+  font-family: "Times New Roman";
+  background-color: #ccffff;
+
+}

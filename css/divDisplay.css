@@ -1,0 +1,22 @@
+/*Take out the comments around each rule.
+
+Try changing the display property*/
+span{
+     background-color: red;
+     float: left;
+}
+
+p{
+    background-color: yellow;
+  padding: 25px;
+clear:both;
+}
+
+     
+div{
+       
+       display: block;
+       background-color: green;
+      float:right;
+ 
+}
